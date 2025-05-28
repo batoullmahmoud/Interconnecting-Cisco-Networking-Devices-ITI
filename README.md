@@ -1,3 +1,2 @@
 # Interconnecting-Cisco-Networking-Devices-ITI
-## Project Description
-This repository contains files related to the CCMA project at ITI, including network topology diagrams and configuration files.
+![Network Topology](https://github.com/batoullmahmoud/Interconnecting-Cisco-Networking-Devices-ITI/blob/main/Project_topolgy.png?raw=true)
